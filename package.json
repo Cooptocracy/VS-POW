@@ -1,0 +1,15 @@
+{
+  "name": "vs-pow",
+  "version": "1.0.0",
+  "description": "Proof Of Work",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Cooptocracy/VS-POW"
+  },
+  "author": "sriharikapu",
+  "license": "CC"
+}
